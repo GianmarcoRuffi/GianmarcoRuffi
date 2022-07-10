@@ -1,1 +1,1 @@
-![This is an image](/assets/images/clean-coding-best-practices.jpg)
+![This is an image](/assets/clean-coding-best-practices.jpg)
