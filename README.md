@@ -27,7 +27,6 @@ Email: gianmarco.ruffi@outlook.it
 
 ![ASP.NET icon](https://img.icons8.com/color/48/000000/asp.png) ASP.NET
 
-![.NET Core icon](https://img.icons8.com/color/48/000000/dot-net-core.png) .NET Core
 
 ![MySQL icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL
 
@@ -39,6 +38,5 @@ Email: gianmarco.ruffi@outlook.it
 
 ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
 
-![.NET icon](https://img.icons8.com/color/48/000000/dot-net.png) .NET
 
 
