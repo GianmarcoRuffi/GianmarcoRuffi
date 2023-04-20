@@ -1,4 +1,4 @@
-<img src="https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg" alt="Clean coding best practices" width="350" height="125">
+<img src="https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg" alt="Clean coding best practices" width="400" height="175">
 
 # Gianmarco Ruffi
 ## Junior Full Stack Web Developer
