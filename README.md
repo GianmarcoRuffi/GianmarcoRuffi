@@ -25,7 +25,7 @@ Email: gianmarco.ruffi@outlook.it
 
 ![MySQL icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL
 
-![Visual Studio icon](https://img.icons8.com/fluent/48/000000/visual-studio-2019.png) Visual Studio
+![MAMP icon](https://img.icons8.com/color/48/000000/mamp.png) MAMP
 
 ![SQL Server Management icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) SQL Server Management
 
