@@ -1,12 +1,15 @@
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg" alt="Clean coding best practices" width="450" height="225" style="margin-right: 20px;">
-    <div>
-        <h1>Gianmarco Ruffi</h1>
-        <h2>Junior Full Stack Web Developer</h2>
-        <p>Contact me on <a href="https://www.linkedin.com/in/gianmarco-ruffi-986b85144/">LinkedIn</a></p>
-        <p>Email: gianmarco.ruffi@outlook.it</p>
-    </div>
-</div>
+<p align="center">
+  <img src="https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg" alt="Clean coding best practices" width="450" height="225">
+</p>
+
+# Gianmarco Ruffi
+## Junior Full Stack Web Developer
+
+<p align="right">
+  Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)  
+  Email: gianmarco.ruffi@outlook.it  
+</p>
+
 
 # Le mie competenze
 
