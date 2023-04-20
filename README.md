@@ -7,13 +7,17 @@ Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)
 
 Email: gianmarco.ruffi@outlook.it
 
-## Linguaggi
+# Le mie competenze
 
 ![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) HTML5
 
 ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png) CSS3
 
+![SCSS icon](https://img.icons8.com/color/48/000000/sass.png) SCSS
+
 ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
+![Node.js icon](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 
 ![PHP icon](https://img.icons8.com/officexs/48/000000/php-logo.png) PHP
 
@@ -28,5 +32,8 @@ Email: gianmarco.ruffi@outlook.it
 ![Vue.js icon](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js
 
 ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
+
+![.NET icon](https://img.icons8.com/color/48/000000/dot-net.png) .NET
+
 
 
