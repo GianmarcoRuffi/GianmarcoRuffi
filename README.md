@@ -9,6 +9,8 @@ Email: gianmarco.ruffi@outlook.it
 
 # Le mie competenze
 
+## Linguaggi
+
 ![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) HTML5
 
 ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png) CSS3
@@ -23,6 +25,10 @@ Email: gianmarco.ruffi@outlook.it
 
 ![C# icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
 
+![ASP.NET icon](https://img.icons8.com/color/48/000000/asp.png) ASP.NET
+
+![.NET Core icon](https://img.icons8.com/color/48/000000/dot-net-core.png) .NET Core
+
 ![MySQL icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png) MySQL
 
 ## Frameworks
@@ -34,6 +40,5 @@ Email: gianmarco.ruffi@outlook.it
 ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
 
 ![.NET icon](https://img.icons8.com/color/48/000000/dot-net.png) .NET
-
 
 
