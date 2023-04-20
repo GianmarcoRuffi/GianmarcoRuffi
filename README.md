@@ -1,11 +1,10 @@
-<p align="center">
+<p align="right">
   <img src="https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg" alt="Clean coding best practices" width="450" height="225">
 </p>
 
-# Gianmarco Ruffi
+<p align="left">
+  # Gianmarco Ruffi
 ## Junior Full Stack Web Developer
-
-<p align="right">
   Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)  
   Email: gianmarco.ruffi@outlook.it  
 </p>
