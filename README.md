@@ -2,6 +2,8 @@
 
 Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)
 
+
+
 # Le mie competenze
 
 ## Linguaggi
@@ -75,5 +77,6 @@ Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)
 
 ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) Laravel
 
-![.NET icon](https://img.icons8.com/color/256/net-framework.png) .NET
+![.NET icon](https://img.icons8.com/color/48/000000/dot-net.png) .NET
+
 
