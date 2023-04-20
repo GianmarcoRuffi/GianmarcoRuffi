@@ -1,16 +1,15 @@
 ![](/clean-coding-best-practices.jpg)
 
+# Gianmarco Ruffi
+## Junior Full Stack Web Developer
+
 Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)
 
-
-
-# Le mie competenze
+Email: gianmarco.ruffi@outlook.it
 
 ## Linguaggi
 
-![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-
-![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png) CSS3
+![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) HTML5 ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png) CSS3
 
 ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
