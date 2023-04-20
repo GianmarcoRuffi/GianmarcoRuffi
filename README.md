@@ -1,4 +1,4 @@
-![](/clean-coding-best-practices.jpg)
+![Banner](https://github.com/GianmarcoRuffi/GianmarcoRuffi/raw/main/clean-coding-best-practices.jpg | width=450 height=225)
 
 # Gianmarco Ruffi
 ## Junior Full Stack Web Developer
