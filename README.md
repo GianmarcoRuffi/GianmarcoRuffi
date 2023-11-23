@@ -16,5 +16,5 @@ Email: gianmarco.ruffi@outlook.it
 
 ## Frameworks
 
-![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![Vue.js icon](https://img.icons8.com/color/48/000000/vue-js.png) ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" /> ![ASP.NET icon](https://img.icons8.com/color/48/000000/asp.png)
+![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![Vue.js icon](https://img.icons8.com/color/48/000000/vue-js.png) ![Laravel icon](https://img.icons8.com/fluency/48/000000/laravel.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" /> ![ASP.NET icon](https://img.icons8.com/color/48/000000/asp.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" />
 
