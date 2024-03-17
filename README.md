@@ -7,8 +7,6 @@ Contact me on [Linkedin](https://www.linkedin.com/in/gianmarco-ruffi-986b85144/)
 
 Email: gianmarco.ruffi@outlook.it
 
-[Portfolio in progress](https://gianmarcoruffi.netlify.app/)
-
 
 # Skills
 
