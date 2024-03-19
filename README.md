@@ -11,7 +11,8 @@ Email: gianmarco.ruffi@outlook.it
 
 ## Skills
 
-![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png)  ![SCSS icon](https://img.icons8.com/color/48/000000/sass.png) ![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript icon](https://img.icons8.com/color/48/000000/typescript.png) ![Node.js icon](https://img.icons8.com/color/48/000000/nodejs.png) ![PHP icon](https://img.icons8.com/officexs/48/000000/php-logo.png) ![C# icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![MySQL icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png) ![SQL Server Management icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
+![HTML5 icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png)  ![SCSS icon](https://img.icons8.com/color/48/000000/sass.png) ![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript icon](https://img.icons8.com/color/48/000000/typescript.png) ![Node.js icon](https://img.icons8.com/color/48/000000/nodejs.png) ![PHP icon](https://img.icons8.com/officexs/48/000000/php-logo.png) ![C# icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![MySQL icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png) ![SQL Server Management icon](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![Git icon](https://img.icons8.com/color/48/000000/git.png)
+
 
 ## Frameworks
 
