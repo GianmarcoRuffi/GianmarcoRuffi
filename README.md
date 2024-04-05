@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning code from 2020<br><br>📚 I'm currently learning React and Php frameworks<br><br>🎯 Next goal: Make my first vscode extension</p>
+<p align="left">📚 I'm currently learning React and Php frameworks<br><br>🎯 Next goal: Make my first vscode extension</p>
 
 ###
 
