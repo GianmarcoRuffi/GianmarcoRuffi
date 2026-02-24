@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Junior Full Stack Web Developer</h3> <img align="right" height="48" src="https://camo.githubusercontent.com/8f948c5cba7ec406e1bccda393020b51028b3357c2c3fb86592b74c2b9f5efb7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6361742e706e67"  />
+<h3 align="center">Full Stack Web Developer</h3> <img align="right" height="48" src="https://camo.githubusercontent.com/8f948c5cba7ec406e1bccda393020b51028b3357c2c3fb86592b74c2b9f5efb7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6361742e706e67"  />
 
 ###
 
