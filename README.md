@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React + Laravel<br><br>🎯 Next goal: Learn Python 🐍 and make my first vscode extension</p>
+<p align="left">📚 Released the tournament mini-manager!</p>
 
 ###
 
