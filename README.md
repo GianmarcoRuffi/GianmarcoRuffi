@@ -2,28 +2,30 @@
 <h3 align="center">Software Developer | Backend & Frontend Web Applications</h3>
 
 <p align="center">
-I enjoy building practical tools and web applications that solve real problems.  
-Most of my projects focus on backend development, management systems and small full-stack applications.
+I enjoy building tools and web applications.  
+Most of my projects focus on management systems and full-stack applications.
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🏆 Local Rankings
 Lightweight **tournament ranking management system** designed to manage local competitions and easily update rankings.
 
-✨ Features
+
+## Features
 - Player management
 - Automatic ranking calculation
 - Simple interface for quick tournament updates
+- Tournament sheets pdf uploader
 
 🔗 Repository  
 https://github.com/GianmarcoRuffi/local-rankings
 
 ---
 
-## 🏢 Studio Pignataro
+## Studio Pignataro
 Portfolio site made for Studio Dott. Architetto Pignataro.
 
 🔗 Repository  
